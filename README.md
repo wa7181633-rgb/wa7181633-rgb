@@ -38,6 +38,7 @@
 
 | Project | Description | Live |
 |:---|:---|:---|
+| **[elevate-demo](https://github.com/wa7181633-rgb/elevate-demo)** | Premium coaching landing page — conversion-focused, dark UI, full sections (services, pricing, testimonials, FAQ). Perfect client showcase. | [Live Demo](https://wa7181633-rgb.github.io/elevate-demo/) |
 | **[farmoz-site](https://github.com/wa7181633-rgb/farmoz-site)** | Agency-grade sales page for a web + AI studio. Zero dependencies, deploys free on GitHub Pages. | [Live Demo](https://wa7181633-rgb.github.io/farmoz-site/) |
 | **[atlas](https://github.com/wa7181633-rgb/atlas)** | Single-file interactive map dashboard — live filters, stat cards, dark product UI. Perfect starter for location-based businesses. | [Live Demo](https://wa7181633-rgb.github.io/atlas/) |
 | **[site-audit](https://github.com/wa7181633-rgb/site-audit)** | Free zero-dependency CLI that scores any website on SEO, speed, mobile & social previews. Run it before hiring anyone (including me). | Run locally |
