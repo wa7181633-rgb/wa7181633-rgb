@@ -2,132 +2,179 @@
   <img src="./assets/banner.svg" alt="Farmoz — Websites that sell, AI that does the busywork" width="100%" />
 </div>
 
-<div align="center">
+<h1 align="center">Farmoz</h1>
 
-# Farmoz
+<h3 align="center">High-Performance Websites &amp; AI Automations</h3>
 
-### Web Engineering · AI Automation · Conversion-Focused Landing Pages
+<p align="center">
+  Fast, conversion-focused landing pages and custom AI tools for small businesses.<br/>
+  <strong>Fixed price. Fixed timeline. No surprises at the end.</strong>
+</p>
 
-Building fast websites and AI automations that turn small businesses into lead machines.
+<p align="center">
+  <a href="https://wa7181633-rgb.github.io/farmoz-site/"><img alt="Live Portfolio" src="https://img.shields.io/badge/Live%20Portfolio-farmoz--site-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=06080f" /></a>
+  <a href="https://wa.me/923122581354"><img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:farmoz98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-farmoz98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-Live%20Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=06080f)](https://wa7181633-rgb.github.io/farmoz-site/)
-[![Email](https://img.shields.io/badge/Email-farmoz98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farmoz98@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-34d399?style=for-the-badge&logo=whatsapp&logoColor=06080f)](https://wa.me/923122581354)
-[![GitHub](https://img.shields.io/badge/GitHub-wa7181633--rgb-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wa7181633-rgb)
-
-<br/>
-
-**Fixed price. Fixed timeline. One revision included. No surprises.**
-
-</div>
-
----
-
-## About Me
-
-I'm **Farmoz**, a web engineer and AI automation builder from **Pakistan**, working with clients worldwide.
-
-I build **fast, conversion-focused websites** for small businesses and **AI automations** that remove repetitive work — lead replies, data sorting, report generation, and the copy-paste tasks that quietly eat hours every week.
-
-My approach is simple: **no heavy frameworks, no bloat, no mystery**. Semantic HTML, modern CSS, and vanilla JavaScript, deployed free on GitHub Pages — which means excellent Core Web Vitals and near-zero hosting cost for the client.
-
-> **A website isn't valuable because it looks good. It's valuable when it turns a visitor into a customer.**
+<p align="center">
+  <img src="https://img.shields.io/badge/Available-for%20new%20projects-34d399?flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Pakistan%20%7C%20Worldwide-22d3ee?flat-square" />
+  <img src="https://img.shields.io/badge/Reply-within%2024h-a78bfa?flat-square" />
+</p>
 
 ---
 
-## What I Deliver
+## Verified Performance
+
+Real audit output, not a claim. Run against the live site with my own free CLI:
+
+```text
+site-audit — free website report
+https://wa7181633-rgb.github.io/farmoz-site/
+
+  ████████████████████  100/100  (245 ms, 21.7 KB)
+
+  ✔ HTTPS                        secure
+  ✔ Response time                245 ms
+  ✔ Page weight (HTML)           21.7 KB
+  ✔ Title tag                    63 chars
+  ✔ Meta description             137 chars
+  ✔ Mobile viewport              present
+  ✔ Single H1                    1 found, 6 H2
+  ✔ Image alt text               no images
+  ✔ Social preview (Open Graph)  title + image
+  ✔ Favicon                      present
+  ✔ Canonical URL                present
+  ✔ Content depth                826 words
+
+Everything passed.
+```
+
+You can reproduce it yourself — the tool is free and open source:
+
+```bash
+git clone https://github.com/wa7181633-rgb/site-audit
+cd site-audit
+node audit.mjs yourdomain.com
+```
+
+---
+
+## What You Get
 
 <table>
 <tr>
 <td align="center" width="25%">
-<h2>100</h2>
-<strong>Lighthouse Target</strong>
+<h2>5 days</h2>
+<strong>Typical Turnaround</strong>
 <br/>
-<sub>Performance, SEO, best practices</sub>
+<sub>1-page sites, from brief to live</sub>
 </td>
 
 <td align="center" width="25%">
-<h2>0</h2>
-<strong>Dependencies</strong>
+<h2>1–2</h2>
+<strong>Revisions</strong>
 <br/>
-<sub>No build step, no npm install</sub>
+<sub>Included, depending on package</sub>
 </td>
 
 <td align="center" width="25%">
-<h2>&lt;24h</h2>
-<strong>Response Time</strong>
+<h2>100%</h2>
+<strong>Code Ownership</strong>
 <br/>
-<sub>WhatsApp or email</sub>
+<sub>Full source + domain in your name</sub>
 </td>
 
 <td align="center" width="25%">
-<h2>1</h2>
-<strong>Free Revision</strong>
+<h2>&lt;1.5s</h2>
+<strong>Load Target</strong>
 <br/>
-<sub>Included in every project</sub>
+<sub>Mobile-first, no framework bloat</sub>
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-**Landing pages · Business websites · AI automations · GitHub Pages deployment**
+## Services &amp; Pricing
 
-</div>
+| Package | Investment | Best for | What's included |
+|:---|:---|:---|:---|
+| **Starter** | **$149** | Single-product landing page | 1 page · 5-day delivery · 1 revision · contact form + WhatsApp · SEO basics · full source |
+| **Business** | **$349** | Growing small business | Up to 5 pages · custom design · blog/catalogue structure · on-page SEO + sitemap · 10-day delivery · 2 revisions |
+| **AI Build** | **from $499** | Operations &amp; lead gen | Scope call + written spec · custom chatbot or workflow · tool integrations · handover guide · 30 days of fixes |
 
-> These are the standards I hold my work to, not vanity metrics. Where a number appears, it's a target or a policy — not an inflated claim.
+**Payment:** 50% to book the slot, 50% when the site is live and you're happy. No hourly billing, no hidden extras.
 
 ---
 
-## Services
+### 🧩 Templates
 
-| Service | What you actually get | Best for |
+Launch-ready HTML/CSS you can buy today and deploy in an hour. No build step.
+
+| Template | Price | What it is |
 |:---|:---|:---|
-| **Landing Pages** | Lightning-fast one-page site that converts visitors into leads or sales | Coaches, consultants, local services, product launches |
-| **Business Websites** | Clean 3–6 page site with services, pricing, FAQ + WhatsApp/email contact flow | Shops, clinics, agencies, startups |
-| **AI Automations** | Scripts & workflows that answer leads, sort data, generate reports, and kill busywork | Anyone drowning in copy-paste or repetitive tasks |
+| **Atlas** | **$29** | Dark dashboard / map UI. Built for data-heavy products and location tools. |
+| *Nordic* | *Coming soon* | Calm, minimal SaaS landing page for apps, courses and newsletters. |
+| *Bloom* | *Coming soon* | Warm storefront for boutiques, bakeries and handmade brands. |
 
-**My promise:** Fixed price + fixed delivery date before we start. One free revision round. You only pay the rest when you're happy.
-
----
-
-## Selected Projects
-
-| Project | Description | Live |
-|:---|:---|:---|
-| **[farmoz-site](https://github.com/wa7181633-rgb/farmoz-site)** | Agency-grade sales page for a web + AI studio. Zero dependencies, deploys free on GitHub Pages. | [Live Demo](https://wa7181633-rgb.github.io/farmoz-site/) |
-| **[atlas](https://github.com/wa7181633-rgb/atlas)** | Single-file interactive map dashboard — live filters, stat cards, dark product UI. Perfect starter for location-based businesses. | [Live Demo](https://wa7181633-rgb.github.io/atlas/) |
-| **[elevate-demo](https://github.com/wa7181633-rgb/elevate-demo)** | Premium coaching landing page — conversion-focused, dark UI, full sections (services, pricing, testimonials, FAQ). | [Repo](https://github.com/wa7181633-rgb/elevate-demo) |
-| **[site-audit](https://github.com/wa7181633-rgb/site-audit)** | Free zero-dependency CLI that scores any website on SEO, speed, mobile & social previews. Run it before hiring anyone (including me). | Run locally |
+→ [**Get Atlas**](https://wa.me/923122581354) · [See all templates](https://wa7181633-rgb.github.io/farmoz-site/#templates)
 
 ---
 
-## How a Project Works
+## Selected Work
 
-```text
-1. You share the goal          →  I send fixed price + clear deadline
-2. 50% to start                →  Design + build begins
-3. Live preview for review     →  One revision round included
-4. Final 50% on approval       →  Handover + domain/hosting help
+### [Farmoz — Portfolio &amp; Agency Site](https://wa7181633-rgb.github.io/farmoz-site/)
+
+<img src="./assets/farmoz-site.png" alt="Farmoz website — dark hero section with clear pricing" width="100%" />
+
+Conversion-focused sales page with full pricing, FAQ and contact flow.
+
+`HTML5` `CSS3` `Vanilla JS` `GitHub Pages` — **scored 100/100** on site-audit · [Live](https://wa7181633-rgb.github.io/farmoz-site/)
+
+### [Atlas — Interactive Map Dashboard](https://wa7181633-rgb.github.io/atlas/)
+
+<img src="./assets/atlas.png" alt="Atlas template — dark map dashboard with live filters" width="100%" />
+
+Single-file dashboard template with live filters, stat cards and dark product UI. No build step.
+
+`HTML` `Vanilla JS` `MIT licensed` — [Live](https://wa7181633-rgb.github.io/atlas/) · [Repo](https://github.com/wa7181633-rgb/atlas)
+
+### [site-audit — Free Website Auditor](https://github.com/wa7181633-rgb/site-audit)
+
+Zero-dependency CLI that scores any site on SEO, speed, mobile readiness and social previews — 12 weighted checks, one command, nothing sent anywhere.
+
+```bash
+node audit.mjs example.com
 ```
 
-Simple. Transparent. No scope creep.
+`Node.js 18+` `Zero deps` `MIT licensed` — [Repo](https://github.com/wa7181633-rgb/site-audit)
+
+---
+
+## How We Work Together
 
 ```mermaid
 flowchart LR
-    A[Goal] --> B[Fixed Price]
-    B --> C[Design]
-    C --> D[Build]
-    D --> E[Live Preview]
-    E --> F[Revision]
-    F --> G[Approval]
-    G --> H[Handover]
-    H --> I[Support]
+    A[Brief] --> B[Fixed Quote]
+    B --> C[50% Deposit]
+    C --> D[Design]
+    D --> E[Build]
+    E --> F[Live Preview]
+    F --> G[Revisions]
+    G --> H[Final 50%]
+    H --> I[Handover]
 ```
+
+1. **Brief** — a short call or chat. What you sell, who buys it, what the site must achieve.
+2. **Fixed quote** — price and a real delivery date before any work starts.
+3. **Build &amp; preview** — you click through a staging link and give feedback.
+4. **Revisions &amp; handover** — 1–2 rounds, final payment, then full code and domain control handed to you.
 
 ---
 
-## Tech & Approach
+## Technical Approach
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -138,44 +185,51 @@ flowchart LR
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
 </p>
 
-### Frontend Engineering
+**Frontend** — semantic HTML, hand-written modern CSS (Grid/Flex, custom properties), vanilla JS where it counts. I skip heavy frameworks on purpose: they're often 200 KB of JavaScript to render a heading, and they wreck Core Web Vitals on the mid-range phones most customers actually use.
 
-<p>
-<img src="https://img.shields.io/badge/Semantic_HTML-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CSS_Grid_&_Flex-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vanilla_JS-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Core_Web_Vitals-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Responsive_Design-111827?style=for-the-badge" />
-</p>
+**Delivery** — mobile-first from 360px, accessible (semantics, focus states, contrast), SEO-complete (titles, meta, Open Graph, structured data, sitemap, canonical).
 
-- **No heavy frameworks** — vanilla JS and hand-written CSS for speed you can measure.
-- **Mobile-first** — designed at 360px first, then scaled up.
-- **Accessible** — proper semantics, focus states, colour contrast.
-- **SEO-ready** — titles, meta description, Open Graph, structured data, sitemap.
-- **Zero dependencies** — no build step, no supply-chain surface, deploys anywhere.
+**AI layer** — prompt systems for consistent output, LLM-assisted content and QA, and automation workflows that connect forms, email, WhatsApp, Google Sheets and reporting.
 
-### AI & Automation
+---
 
-```text
-Lead comes in
-      │
-      ▼
-  Automation
-      │
- ┌────┼────────────┐
- ▼    ▼            ▼
-Reply  Sort      Report
- │    │            │
- └────┼────────────┘
-      ▼
-Email / WhatsApp / Sheets
-```
+## FAQ
 
-`Prompt Systems` · `LLM APIs` · `Content Generation` · `QA Workflows` · `Email Automation` · `WhatsApp Integration` · `Google Sheets Pipelines`
+<details>
+<summary><strong>Do I get full ownership of the code?</strong></summary>
 
-- **Prompt systems** — structured prompts for consistent, on-brand output.
-- **LLM-assisted content & QA** — drafting, reviewing, and catching issues before handover.
-- **Automation scripts** — connecting email, WhatsApp, Google Sheets, and reporting flows.
+Yes. You receive the full source files, a deployed site, and the domain/hosting account in **your** name. Nothing is locked to me — if you ever want another developer, everything is yours.
+</details>
+
+<details>
+<summary><strong>How long does a website take?</strong></summary>
+
+A one-page site is typically **5 working days** from the day I receive your text and images. A five-page site is around **10 working days**. You get a real date before we start, not a range.
+</details>
+
+<details>
+<summary><strong>Do I need to write the content myself?</strong></summary>
+
+No. Send your existing material — brochures, WhatsApp messages, anything — and I'll structure the copy. I don't invent claims about your business; anything I write, you approve.
+</details>
+
+<details>
+<summary><strong>How does payment work?</strong></summary>
+
+50% upfront to book the slot, 50% when the site is live and you're happy. Bank transfer, Wise, or any method that works in your country.
+</details>
+
+<details>
+<summary><strong>Can you maintain the site afterwards?</strong></summary>
+
+Yes, optionally. Small text and image updates are a flat monthly retainer, or per-update if you prefer. You're never forced into it.
+</details>
+
+<details>
+<summary><strong>Do you work with clients outside Pakistan?</strong></summary>
+
+Yes — most work is remote and async. Calls are scheduled in your time zone.
+</details>
 
 ---
 
@@ -190,26 +244,20 @@ Email / WhatsApp / Sheets
 
 ---
 
-## Let's Work Together
-
-I'm currently **available** for a limited number of projects so every build gets proper attention.
-
-- 📩 **Email:** [farmoz98@gmail.com](mailto:farmoz98@gmail.com)
-- 💬 **WhatsApp:** [Chat now](https://wa.me/923122581354) — fastest response
-- 🌐 **Portfolio:** [wa7181633-rgb.github.io/farmoz-site](https://wa7181633-rgb.github.io/farmoz-site/)
-- 📍 **Based in:** Pakistan — working with clients worldwide
-
----
-
 <div align="center">
 
-### Ship it. Measure it. Improve it.
+## Ready to build something fast?
 
-**Web Engineering · AI Automation · Conversion Design · GitHub Pages · SEO**
+One short message is enough. I reply within 24 hours — and I'll tell you honestly whether I'm the right person for the job.
+
+[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Fastest%20Response-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923122581354)
+[![Email](https://img.shields.io/badge/Email-farmoz98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farmoz98@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Full%20Portfolio-Visit%20Site-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=06080f)](https://wa7181633-rgb.github.io/farmoz-site/)
 
 <br/>
 
-**Star a repo if it helped you.**  
-Built with care by **Farmoz**.
+**Web Engineering · AI Automation · Templates · GitHub Pages · SEO**
+
+<sub>Star a repo if it helped you. Built with care by Farmoz.</sub>
 
 </div>
